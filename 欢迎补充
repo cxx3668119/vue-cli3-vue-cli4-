@@ -1,0 +1,2 @@
+@vue/cli-plugin-pwa、@vue/cli-service等包的增强
+原来在根目录下的vuex.js、route.js被分别放到了对应的文件夹下
